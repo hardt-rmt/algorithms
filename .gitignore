@@ -1,0 +1,17 @@
+TwoNumberSum/.idea
+.DS_Store
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+/build
+
+# Ignore specific files
+secret-config.json
+
+# Ignore all .env files
+*.env
